@@ -1,5 +1,5 @@
 # XCSoar site files for Serbia
 
 **Download links**
-- Map: [serbia.xcm](https://github.com/levanovd/xcsoar-serbia/raw/main/serbia.xcm)
-- Waypoints: [serbia.cup](https://github.com/levanovd/xcsoar-serbia/raw/main/serbia.cup)
+- Map: [serbia.xcm](https://levanovd.github.io/xcsoar-serbia/serbia.xcm)
+- Waypoints: [serbia.cup](https://levanovd.github.io/xcsoar-serbia/serbia.cup)
